@@ -105,9 +105,6 @@ Generates AI-powered content from a user prompt.
 
 - 🎬 **Video Walkthrough**: [Watch on YouTube](https://youtu.be/uPewJ1NgvgA)
 
-> 🔗 Replace with your actual YouTube link  
-> 🎯 Showcase how to use the app, send a prompt, and receive content in real time
-
 ---
 
 ## 🤝 Contributing

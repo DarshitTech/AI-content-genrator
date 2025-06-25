@@ -125,6 +125,6 @@ Feel free to:
 - **AI Integration**: Google Gemini API  
 - **Tools**: dotenv, body-parser, path
 
----
+
 
 
